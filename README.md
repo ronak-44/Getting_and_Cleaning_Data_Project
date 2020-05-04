@@ -1,13 +1,13 @@
-## Getting_and_Cleaning_Data_Project
+# Getting_and_Cleaning_Data_Project
 
-# Data
+## Data
 
 Here are the data for the project:
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
-## Files
+# Files
 
-# run_analysis.R
+## run_analysis.R
 1.Merges the training and the test sets to create one data set.
 
 2.Extracts only the measurements on the mean and standard deviation for each measurement.
@@ -18,5 +18,5 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 
 5.From the data set in step 4, creates a second, independent tidy data set(#tidydata.txt) with the average of each variable for each activity and each subject.
 
-# codebook.md
+## codebook.md
 A code book that describes the variables, the data
